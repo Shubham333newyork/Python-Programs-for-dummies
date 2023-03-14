@@ -1,0 +1,6 @@
+print('A very welcome in the world of love')
+x = input('What is the your  name?\n')
+y = input('What is the your girlfriend name?\n')
+print(x + ' your girlfriend is very beautiful and I want to see her beautiful boobs. ' + "I like " + y +  " hot and sexy figure ")
+z = input("What is your girlfriend boobs size?\n")
+print("oh, wow    how large " + y + " boobs is")
